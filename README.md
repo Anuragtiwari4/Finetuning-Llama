@@ -34,3 +34,12 @@ Steps involved in BPE Algorithm:
     3. Update the frequency counts of all the bytes or characters that contain the merged pair.
     4. Add the new subword unit to the vocabulary.
 4. Represent the text corpus using the subword units in the vocabulary
+
+
+**Appending the custum vocab created using BPE Tokenization in Llama 3.1 Tokenizer**
+
+Model Used : https://huggingface.co/akjindal53244/Llama-3.1-Storm-8B
+
+Updated Model: https://huggingface.co/Anurag-Tiwari/hindi_updated-llama-model
+
+Updated Tokenizer: https://huggingface.co/Anurag-Tiwari/hindi_updated-llama-tokenizer
